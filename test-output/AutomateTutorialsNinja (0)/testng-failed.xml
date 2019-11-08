@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AutomateTutorialsNinja (0)]">
+  <test thread-count="5" name="TutorialsNinja(failed)">
+    <classes>
+      <class name="com.tutorialsninja.testscript.AutomateTutorialsNinja">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="addToCart"/>
+          <include name="validateHomepage"/>
+          <include name="closeBrowser"/>
+          <include name="endBrowser"/>
+          <include name="openBrowser"/>
+          <include name="cartTotal"/>
+        </methods>
+      </class> <!-- com.tutorialsninja.testscript.AutomateTutorialsNinja -->
+    </classes>
+  </test> <!-- TutorialsNinja(failed) -->
+</suite> <!-- Failed suite [AutomateTutorialsNinja (0)] -->
