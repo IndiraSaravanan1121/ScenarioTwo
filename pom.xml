@@ -15,7 +15,7 @@
 		<apache.poi>3.9</apache.poi>
 		<apache.poi.ooxml>3.9</apache.poi.ooxml>
 		<apache.poi.schema>3.9</apache.poi.schema>
-		<apache.scratchpad>3.9</apache.scratchpad>
+		<apache.scratchpad>5.2.1</apache.scratchpad>
 		<log.version>1.2.17</log.version>
 		<extentreport.version>4.0.9</extentreport.version>
 		<testng.version>7.0.0</testng.version>
